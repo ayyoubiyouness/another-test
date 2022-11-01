@@ -1,0 +1,3 @@
+
+
+print("la traductiod")
